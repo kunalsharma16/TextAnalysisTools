@@ -16,7 +16,8 @@ namespace TextAnalysisTools
             Console.WriteLine(a.MyFunctionA("Ada Lovelace wrote the first algorithm designed for processing by an Analytical Engine."));
 
         }
-        
+      //kunal sharma//
+      //c0727250//
        public string MyFunctionA(string input)
         {// Write a c# program to find the longest word in a string.
             string[] words = input.Split();
